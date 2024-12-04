@@ -1,5 +1,9 @@
 # night-mode-switch
 
+
+![Screnshoot]( https://github.com/Ammar-Alkhalidi/night-mode-switch/blob/main/reference.gif)
+
+
 The Room component demonstrates how to manage and toggle states in React. It features a light switch that toggles the room's state between lit (bright) and dark.
 
 # Features
