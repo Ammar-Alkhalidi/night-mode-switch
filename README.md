@@ -46,3 +46,6 @@ The room starts in the "lit" state (light is on).
 *-Background Color: Black
 *-Text: "The room is dark"
 *-Button Text: "Turn on"
+
+
+Scripted by AMMAR ALKHALIDI
