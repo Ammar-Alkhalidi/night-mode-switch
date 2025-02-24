@@ -49,3 +49,4 @@ The room starts in the "lit" state (light is on).
 
 
 Scripted by AMMAR ALKHALIDI
+danke >Yousif
